@@ -150,7 +150,7 @@ export default {
   display: block;
   background-color: #d8cd00;
   width: 100%;
-  height: 15vh;
+  height: 10%;
   align-items: center;
 }
 
