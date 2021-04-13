@@ -1,4 +1,4 @@
-# amadre
+# Landing Page Master Class
 
 > A Vue.js project
 
